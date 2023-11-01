@@ -66,14 +66,23 @@ p {
     font-family: "Comfortaa", serif;
 }
 
+
 .subheader {
     font-family: "Comfortaa", serif;
     float: right;
 }
 
+
 .navitem:hover {
     color: orange;
 }
+
+
+.navitem {
+    text-decoration: none;
+    color: black;
+}
+
 
 .logo {
     width: 23%;
@@ -198,8 +207,15 @@ button:hover {
     font-family: "Comfortaa", "serif";
 }
 
+
 .footeritem:hover {
     color: orange;
+}
+
+
+.footeritem {
+    text-decoration: none;
+    color: black;
 }
 
 

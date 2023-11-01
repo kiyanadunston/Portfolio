@@ -2,7 +2,7 @@ h1 {
     font-family: "Comfortaa", serif;
 }
 
-h1 {
+.title {
     animation: 2s anim-h1 ease-out 2s;
   }
   @keyframes anim-h1 {

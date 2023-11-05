@@ -25,6 +25,7 @@ h1 {
     }
 }
 
+
 button {
     background-color: black;
     color: white;
@@ -63,6 +64,7 @@ p {
     font-family: "Quicksand", serif;
     font-size: 14px;
 }
+
 
 .projects {
     font-family: "Comfortaa", serif;
@@ -109,14 +111,18 @@ ul {
     margin-left: auto;
 }
 
+
 li {
     list-style-type: none;
 }
 
+
 .navitem {
     justify-content: space-between;
-    padding: 1%
+    padding: 1%;
+    text-align: center;
 }
+
 
 .navitem:hover {
     color: orange !important;
@@ -237,6 +243,7 @@ button:hover {
     }
   }
 
+  
 .reveal {
     position: relative;
     transform: translateY(150px);

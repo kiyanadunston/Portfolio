@@ -40,6 +40,7 @@ button {
 body {
     margin: 5%;
     cursor: pointer;
+    background-color: rgb(243,238,231);
 }
 
 
